@@ -3,20 +3,8 @@ Installation
 You need to have Java 8 JDK installed along with maven.
 Git
 
-To run the tests locally with Chrome, install ChromeDriver from below link
-http://chromedriver.chromium.org/
-- create the folder webdrivers in C drive (with the same name)extract the driver from zip in it C:\webdrivers\chromedriver.exe
-- add its location to your system PATH.
-
-To run the tests locally with Firefox, install GeckoDriver from below link
-https://github.com/mozilla/geckodriver/releases
-- Extract and place the driver in the same folder C:\webdrivers\geckodriver.exe
-
-To run the tests locally with IE, install IEDriver from below link
-https://www.seleniumhq.org/download/
-- Extract and place the driver in it C:\webdrivers\IEDriverServer.exe
-
 I have used IntelliJ
+Windows OS
 
 Cloning Git repositories
 ------------------------
