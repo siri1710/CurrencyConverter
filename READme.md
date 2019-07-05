@@ -31,7 +31,11 @@ $ mvn test -Dbrowser={browser} where {browser} is chrome or firefox or msie
 To check the report
 -------------------
 Go to the below path in the project
-currencyconverter(Prj)-->target(Fld)-->cucumber-report(Fld)-->advanced-reports(Fld)
--->cucumber-html-reports(Fld)-->overview-features.html(File)
+currencyconverter(Prj)
+ -->target(Fld)
+  -->cucumber-report(Fld)
+   -->advanced-reports(Fld)
+    -->cucumber-html-reports(Fld)
+     -->overview-features.html(File)
 when you move the mouse over the file you can see the browser options on top right corner
 select chrome and the report will be opened on chrome.
