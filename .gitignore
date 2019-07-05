@@ -1,0 +1,16 @@
+
+.idea/*
+*.iml
+.idea/*
+.DS_Store
+nb-configuration.xml
+*/reports/*
+*example.log
+*.DS_Store
+/target/
+test-output/*
+cucumber-reports/
+/bin/
+.vscode/*
+.settings/*
+.classpath
